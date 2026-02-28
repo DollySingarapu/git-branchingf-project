@@ -1,2 +1,6 @@
 Version 1 - Production Code
+<<<<<<< HEAD
 Login feature added
+=======
+New Feature 2
+>>>>>>> 35bfdc2 (Added feature 2)
