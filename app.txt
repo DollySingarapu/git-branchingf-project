@@ -1,7 +1,11 @@
 Version 1 - Production Code
 <<<<<<< HEAD
+<<<<<<< HEAD
 Login feature added
 =======
 New Feature 2
 >>>>>>> 35bfdc2 (Added feature 2)
 Different change in dev
+=======
+Hotfix in production
+>>>>>>> main
